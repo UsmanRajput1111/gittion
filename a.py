@@ -1,5 +1,4 @@
-def sum_two_numbers(a, b):
-  return a + b
-    result = sum_two_numbers(3, 7)
-
+a=5;
+b=10;
+result = a + b;
 print("Sum is:", result)
